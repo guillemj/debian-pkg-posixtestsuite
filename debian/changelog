@@ -2,6 +2,9 @@ posixtestsuite (1.5.2-1) UNRELEASED; urgency=low
 
   * New upstream release.
     - debian/patches/00_find_warnings.patch: Remove, merged upstream.
+    - debian/patches/02_expect.diff: Rename to ...
+    - debian/patches/02_timeout.patch: ... this. Make all run.sh scripts
+      use the provided timeout script.
   * Fix FSF's copyright address.
   * Switch to quilt:
     - Add new debian/patches/series file.
