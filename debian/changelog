@@ -1,12 +1,13 @@
-posixtestsuite (1.5.2-1) UNRELEASED; urgency=low
+posixtestsuite (1.5.2-1) unstable; urgency=low
 
   * New upstream release.
     - debian/patches/00_find_warnings.patch: Remove, merged upstream.
     - debian/patches/02_expect.diff: Rename to ...
     - debian/patches/02_timeout.patch: ... this. Make all run.sh scripts
       use the provided timeout script.
-  * Fix FSF's copyright address.
-  * Change 'program' to 'package' in the license statement.
+  * Fix license statement in debian/copyright:
+    - Update FSF's copyright address.
+    - Change 'program' to 'package'.
   * Remove shlibs:Depends substvar from the Depends.
   * Switch to quilt:
     - Add new debian/patches/series file.
@@ -23,7 +24,7 @@ posixtestsuite (1.5.2-1) UNRELEASED; urgency=low
   * Move debhelper and quilt from Build-Depends-Indep to Build-Depends, as
     they are used during clean.
 
- -- Guillem Jover <guillem@debian.org>  Wed, 14 Jun 2006 11:12:42 +0300
+ -- Guillem Jover <guillem@debian.org>  Sat, 02 Feb 2008 22:21:08 +0200
 
 posixtestsuite (1.5.1-1) unstable; urgency=low
 
