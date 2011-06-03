@@ -1,4 +1,4 @@
-posixtestsuite (1.5.2-4) UNRELEASED; urgency=low
+posixtestsuite (1.5.2-4) unstable; urgency=low
 
   * Switch to debhelper compatibility level 7.
   * Use dh_prep instead of “dh_clean -k”.
@@ -18,7 +18,7 @@ posixtestsuite (1.5.2-4) UNRELEASED; urgency=low
   * Do not try to build test cases from the quilt state directory.
   * Use a stamp file to not run the test suite twice.
 
- -- Guillem Jover <guillem@debian.org>  Mon, 09 Feb 2009 22:04:24 +0200
+ -- Guillem Jover <guillem@debian.org>  Fri, 03 Jun 2011 09:10:32 +0200
 
 posixtestsuite (1.5.2-3) unstable; urgency=low
 
