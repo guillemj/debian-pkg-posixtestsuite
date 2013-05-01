@@ -6,8 +6,8 @@ Uploaders: Guillem Jover <guillem@debian.org>, Aurelien Jarno <aurel32@debian.or
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.4
 Homepage: http://posixtest.sourceforge.net/
-Vcs-Browser: http://svn.debian.org/viewsvn/glibc-bsd/trunk/posixtestsuite/
-Vcs-Svn: svn://svn.debian.org/svn/glibc-bsd/trunk/posixtestsuite/
+Vcs-Browser: http://anonscm.debian.org/viewvc/glibc-bsd/trunk/posixtestsuite/
+Vcs-Svn: svn://anonscm.debian.org/glibc-bsd/trunk/posixtestsuite/
 
 Package: posixtestsuite
 Architecture: any
