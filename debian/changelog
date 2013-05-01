@@ -1,3 +1,9 @@
+posixtestsuite (1.5.2-5) UNRELEASED; urgency=low
+
+  * Now using Standards-Version 3.9.4 (no changes needed).
+
+ -- Guillem Jover <guillem@debian.org>  Wed, 01 May 2013 17:55:50 +0200
+
 posixtestsuite (1.5.2-4) unstable; urgency=low
 
   * Switch to debhelper compatibility level 7.
