@@ -33,7 +33,7 @@ install-arch: build-arch
 	dh_prep
 	dh_installdirs
 
-	gzip -c9 logfile >$(CURDIR)/debian/posixtestsuite/$(REPORT).gz
+	gzip -nc9 logfile >$(CURDIR)/debian/posixtestsuite/$(REPORT).gz
 
 binary-indep:
 	# Nothing to do.
