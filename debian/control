@@ -1,13 +1,12 @@
 Source: posixtestsuite
 Section: devel
 Priority: optional
-Maintainer: GNU/kFreeBSD Maintainers <debian-bsd@lists.debian.org>
-Uploaders: Guillem Jover <guillem@debian.org>, Aurelien Jarno <aurel32@debian.org>
+Maintainer: Guillem Jover <guillem@debian.org>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.4
 Homepage: http://posixtest.sourceforge.net/
-Vcs-Browser: http://anonscm.debian.org/viewvc/glibc-bsd/trunk/posixtestsuite/
-Vcs-Svn: svn://anonscm.debian.org/glibc-bsd/trunk/posixtestsuite/
+Vcs-Browser: http://git.hadrons.org/?p=debian/pkgs/posixtestsuite.git
+Vcs-Git: git://git.hadrons.org/git/debian/pkgs/posixtestsuite.git
 
 Package: posixtestsuite
 Architecture: any
