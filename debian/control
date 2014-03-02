@@ -3,7 +3,7 @@ Section: devel
 Priority: optional
 Maintainer: Guillem Jover <guillem@debian.org>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.5
 Homepage: http://posixtest.sourceforge.net/
 Vcs-Browser: http://git.hadrons.org/?p=debian/pkgs/posixtestsuite.git
 Vcs-Git: git://git.hadrons.org/git/debian/pkgs/posixtestsuite.git
