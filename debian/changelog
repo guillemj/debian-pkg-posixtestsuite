@@ -1,4 +1,4 @@
-posixtestsuite (1.5.2-5) UNRELEASED; urgency=low
+posixtestsuite (1.5.2-5) unstable; urgency=low
 
   * Take over standalone maintainership.
     <https://lists.debian.org/debian-bsd/2013/10/msg00227.html>.
@@ -7,7 +7,7 @@ posixtestsuite (1.5.2-5) UNRELEASED; urgency=low
   * Do not store the timestamp in the gzip compressed report log file.
   * Switch to debhelper compatibility level 9.
 
- -- Guillem Jover <guillem@debian.org>  Wed, 01 May 2013 17:55:50 +0200
+ -- Guillem Jover <guillem@debian.org>  Mon, 03 Mar 2014 05:50:27 +0100
 
 posixtestsuite (1.5.2-4) unstable; urgency=low
 
