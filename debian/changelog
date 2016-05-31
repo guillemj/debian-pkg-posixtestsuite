@@ -1,4 +1,4 @@
-posixtestsuite (1.5.2-6) UNRELEASED; urgency=low
+posixtestsuite (1.5.2-6) unstable; urgency=low
 
   * Switch debian/copyright to machine-readable format 1.0.
   * Switch Vcs-Browser to a cgit URL.
@@ -6,7 +6,7 @@ posixtestsuite (1.5.2-6) UNRELEASED; urgency=low
   * Use https for hadrons.org URLs.
   * Add patch metadata for patches missing it.
 
- -- Guillem Jover <guillem@debian.org>  Sat, 02 May 2015 05:07:18 +0200
+ -- Guillem Jover <guillem@debian.org>  Tue, 31 May 2016 19:44:20 +0200
 
 posixtestsuite (1.5.2-5) unstable; urgency=low
 
