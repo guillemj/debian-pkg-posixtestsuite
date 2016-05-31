@@ -4,6 +4,7 @@ posixtestsuite (1.5.2-6) UNRELEASED; urgency=low
   * Switch Vcs-Browser to a cgit URL.
   * Now using Standards-Version 3.9.8 (no changes needed).
   * Use https for hadrons.org URLs.
+  * Add patch metadata for patches missing it.
 
  -- Guillem Jover <guillem@debian.org>  Sat, 02 May 2015 05:07:18 +0200
 
