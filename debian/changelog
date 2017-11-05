@@ -6,6 +6,7 @@ posixtestsuite (1.5.2-7) UNRELEASED; urgency=medium
   * Now using Standards-Version 4.1.1 (no changes needed).
   * Switch to debian/watch format version 4.
   * Switch sf.net URL in debian/watch file from http to https.
+  * Switch to debhelper compatibility level 10.
 
  -- Guillem Jover <guillem@debian.org>  Sun, 05 Nov 2017 17:01:16 +0100
 
