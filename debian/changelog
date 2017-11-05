@@ -3,6 +3,7 @@ posixtestsuite (1.5.2-7) UNRELEASED; urgency=medium
   * Line-wrap dependency fields.
   * Remove commented-out debhelper commands.
   * Use dpkg Makefile fragments instead of using dpkg-architecture directly.
+  * Now using Standards-Version 4.1.1 (no changes needed).
 
  -- Guillem Jover <guillem@debian.org>  Sun, 05 Nov 2017 17:01:16 +0100
 
