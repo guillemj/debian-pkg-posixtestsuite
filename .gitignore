@@ -4,5 +4,6 @@
 *.deb
 *.dsc
 *.changes
-*.upload
+*.buildinfo
 *.build
+*.upload
