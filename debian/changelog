@@ -4,6 +4,7 @@ posixtestsuite (1.5.2-8) UNRELEASED; urgency=medium
   * Switch to debhelper compatibility level 11.
   * Mark binary package as Multi-Arch: same.
   * Remove spurious space from package description.
+  * Now using Standards-Version 4.3.0 (no changes needed).
 
  -- Guillem Jover <guillem@debian.org>  Sun, 10 Feb 2019 18:07:43 +0100
 
