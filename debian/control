@@ -12,6 +12,7 @@ Build-Depends:
 
 Package: posixtestsuite
 Architecture: any
+Multi-Arch: same
 Depends:
  ${misc:Depends},
 Description: POSIX conformance test suite report log
