@@ -1,3 +1,9 @@
+posixtestsuite (1.5.2-8) UNRELEASED; urgency=medium
+
+  * Namespace debhelper fragment files with binary package name.
+
+ -- Guillem Jover <guillem@debian.org>  Sun, 10 Feb 2019 18:07:43 +0100
+
 posixtestsuite (1.5.2-7) unstable; urgency=medium
 
   * Line-wrap dependency fields.
