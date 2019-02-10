@@ -1,4 +1,4 @@
-posixtestsuite (1.5.2-8) UNRELEASED; urgency=medium
+posixtestsuite (1.5.2-8) unstable; urgency=medium
 
   * Orphan package, set maintainer to Debian QA Group.
   * Namespace debhelper fragment files with binary package name.
@@ -7,7 +7,7 @@ posixtestsuite (1.5.2-8) UNRELEASED; urgency=medium
   * Remove spurious space from package description.
   * Now using Standards-Version 4.3.0 (no changes needed).
 
- -- Guillem Jover <guillem@debian.org>  Sun, 10 Feb 2019 18:07:43 +0100
+ -- Guillem Jover <guillem@debian.org>  Sun, 10 Feb 2019 20:00:32 +0100
 
 posixtestsuite (1.5.2-7) unstable; urgency=medium
 
