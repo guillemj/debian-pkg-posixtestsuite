@@ -1,5 +1,6 @@
 posixtestsuite (1.5.2-8) UNRELEASED; urgency=medium
 
+  * Orphan package, set maintainer to Debian QA Group.
   * Namespace debhelper fragment files with binary package name.
   * Switch to debhelper compatibility level 11.
   * Mark binary package as Multi-Arch: same.

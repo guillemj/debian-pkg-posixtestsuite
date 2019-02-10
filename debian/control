@@ -1,7 +1,7 @@
 Source: posixtestsuite
 Section: devel
 Priority: optional
-Maintainer: Guillem Jover <guillem@debian.org>
+Maintainer: Debian QA Group <packages@qa.debian.org>
 Homepage: http://posixtest.sourceforge.net/
 Vcs-Browser: https://git.hadrons.org/cgit/debian/pkgs/posixtestsuite.git
 Vcs-Git: https://git.hadrons.org/git/debian/pkgs/posixtestsuite.git
